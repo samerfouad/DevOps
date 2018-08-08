@@ -1,6 +1,5 @@
-#Working with DevOps Services
+## Working with DevOps Services
 
-In this workshop you will set up and configure a pipeline to get your code in to production. Any future changes you make will flow through this pipeline, allowing you to make quick but reliable changes to your production application.
 
 ## Before you begin
 
